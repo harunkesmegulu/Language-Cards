@@ -1,1 +1,1 @@
-[Yazılım Dilleri🧐](https://language-card-unicorn-364fb5.netlify.app/)
+https://harunkesmegulu.github.io/Language-Cards/
